@@ -1,0 +1,15 @@
+G:\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.dll
+G:\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.pdb
+G:\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.csprojResolveAssemblyReference.cache
+G:\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.dll
+G:\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.pdb
+C:\Users\nbuy_ogrenci\Desktop\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.dll
+C:\Users\nbuy_ogrenci\Desktop\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.pdb
+C:\Users\nbuy_ogrenci\Desktop\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.dll
+C:\Users\nbuy_ogrenci\Desktop\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.pdb
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.dll
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_DTO\bin\Debug\Blog_DTO.pdb
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.csprojResolveAssemblyReference.cache
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.dll
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_DTO\obj\Debug\Blog_DTO.pdb

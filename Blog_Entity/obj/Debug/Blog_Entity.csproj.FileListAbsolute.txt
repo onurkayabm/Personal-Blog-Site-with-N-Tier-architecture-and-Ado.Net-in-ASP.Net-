@@ -1,0 +1,15 @@
+G:\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.dll
+G:\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.pdb
+G:\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.csprojResolveAssemblyReference.cache
+G:\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.dll
+G:\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.pdb
+C:\Users\onurkaya\Desktop\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.dll
+C:\Users\onurkaya\Desktop\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.pdb
+C:\Users\onurkaya\Desktop\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.csprojResolveAssemblyReference.cache
+C:\Users\onurkaya\Desktop\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.dll
+C:\Users\onurkaya\Desktop\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.pdb
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.dll
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_Entity\bin\Debug\Blog_Entity.pdb
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.csprojResolveAssemblyReference.cache
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.dll
+C:\Users\onurkaya\Desktop\PROJELER\20170524_OK_BLOGKATMANLİ\Blog_Entity\obj\Debug\Blog_Entity.pdb

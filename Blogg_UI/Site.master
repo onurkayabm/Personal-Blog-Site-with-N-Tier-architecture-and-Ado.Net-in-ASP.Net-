@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Blogg_UI.Site" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+
+    <script src="../ckeditor/ckeditor.js" type="text/javascript">
+    </script>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 242px;
+        }
+        th {
+        font-weight: bold;
+        font-size: 11px;
+        font-family: Trebuchet MS,Verdana,Arial, Helvetica, sans-serif;
+        color:#4f6b72;
+        border: 1px solid #C1DAD7;
+        letter-spacing: 2px;
+        padding: 5px;
+        text-align: left;
+        background-color:#CAE8EA;
+
+        
+        }
+        td
+        {
+            border-right: 1px solid #C1DAD7;
+            border-bottom: 1px solid #C1DAD7;
+            padding: 6px;
+            color:#4f6b72;
+            background-color:#fff;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+    <div id="content">
+       
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+        </asp:ContentPlaceHolder>
+         
+		<div style="clear: both;">&nbsp;<br /></div>
+           
+        
+		
+            </div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li>
+					<div id="search" >
+					
+						<div>
+							<input type="text" name="s" id="search-text" value="" />
+							<input type="submit" id="search-submit" value="GO" />
+						</div>
+					
+					</div>
+					<div style="clear: both;">&nbsp;</div>
+				</li>
+				<li>
+					<h2>Aliquam tempus</h2>
+					<p>
+
+					    <%--<uc1:UyeGiris ID="UyeGiris1" runat="server" />--%>
+
+					</p>
+				</li>
+				<li>
+					<h2>Kategoriler</h2>
+					<ul>
+                        <asp:Repeater ID="rptCategories" runat="server">
+                            <ItemTemplate> 
+                                <li><a href='KategoriDetay.aspx?kid=<%# Eval("KategoriID") %>'><%# Eval("KategoriAdi") %> (<%# Eval("MakaleSayisi") %>)</a></li>
+                            </ItemTemplate>
+                        </asp:Repeater>
+						
+						
+					</ul>
+				</li>
+				<li>
+					<h2>Blogroll</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+						<li><a href="#">Urnanet non molestie semper</a></li>
+						<li><a href="#">Proin gravida orci porttitor</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2>Archives</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+						<li><a href="#">Urnanet non molestie semper</a></li>
+						<li><a href="#">Proin gravida orci porttitor</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+
+
+
+
+
+</asp:Content>
+
